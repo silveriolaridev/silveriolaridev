@@ -11,7 +11,7 @@
 <br>
 
 ### Sobre mim:
-- Graduanda em **Análise e Desenvolvimento de Sistemas** - SPTech (1/5)
+- Graduanda em **Análise e Desenvolvimento de Sistemas** - SPTech (2/5)
 - **Hard Skills:** Desenvolvimento web, Front-End, e Desing
 - **Soft Skills:** Trabalho em equipe, Comunicação e Empatia
   
