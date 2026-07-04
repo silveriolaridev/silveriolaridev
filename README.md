@@ -1,15 +1,19 @@
 
 ## Olá! Sou a Larissa Silvério 👋
 
-Sou desenvolvedora de software com experiência no desenvolvimento e evolução de aplicações **Web e Mobile**, com foco em construção de interfaces, integração com APIs e experiência do usuário.
+**`Desenvolvedora de Software`**
 
-Minha principal experiência está no desenvolvimento Front-end com **React.js, Next.js, JavaScript e TypeScript**. Atualmente, também atuo com desenvolvimento **Android utilizando Kotlin e Jetpack Compose**.
+Sou desenvolvedora de software com experiência na construção e evolução de aplicações **Web e Mobile**, atuando principalmente no desenvolvimento de interfaces, integração com APIs e melhoria da experiência do usuário.
 
-Ao longo da minha trajetória, participei do desenvolvimento e manutenção de produtos digitais no contexto financeiro, trabalhando com componentes reutilizáveis, integrações **REST e GraphQL**, refatorações, acessibilidade e evolução de aplicações em produção.
+Tenho maior experiência com **React.js, Next.js, JavaScript e TypeScript** no desenvolvimento Front-end. Atualmente, também atuo com desenvolvimento **Android utilizando Kotlin e Jetpack Compose**, ampliando minha experiência em aplicações Mobile.
 
-Também possuo experiência acadêmica com desenvolvimento Back-end, banco de dados, Cloud e DevOps, além de grande interesse em **Engenharia de Software, Inteligência Artificial aplicada ao desenvolvimento e Acessibilidade Digital**.
+Ao longo da minha trajetória, participei da evolução e sustentação de produtos digitais no contexto financeiro, contribuindo com **componentes reutilizáveis, integrações REST e GraphQL, refatorações, acessibilidade e melhorias em aplicações em produção**.
 
-Graduanda em **Análise e Desenvolvimento de Sistemas na SPTech**, cursando o último semestre.
+Também desenvolvi projetos envolvendo **Java, Spring Boot, bancos de dados, Cloud e DevOps**. Tenho interesse especial em **Engenharia de Software, Inteligência Artificial aplicada ao desenvolvimento e Acessibilidade Digital**.
+
+🎓 Graduanda em **Análise e Desenvolvimento de Sistemas na SPTech**, atualmente no último semestre.
+
+
 
 ---
 
@@ -25,10 +29,8 @@ Graduanda em **Análise e Desenvolvimento de Sistemas na SPTech**, cursando o ú
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="50" height="50" alt="Material UI" title="Material UI"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" title="Jest"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="50" height="50" alt="Axios" title="Axios"/>
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="50" height="50" alt="Axios" title="Axios"/>
 </div>
 
 ### Mobile
