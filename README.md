@@ -21,7 +21,137 @@ Graduanda em **Análise e Desenvolvimento de Sistemas na SPTech**, atualmente no
 ### Linguagens e Tecnologias 
 <br>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img align="left" alt="Vite" title="Vite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /> <img align="left" alt="Material UI" title="Material UI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> <img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> <img align="left" alt="Android" title="Android" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> <img align="left" alt="Jetpack Compose" title="Jetpack Compose" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" /> <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> <img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <br/> <br/>
+<p>
+  <img 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      alt="Next.js" 
+      title="Next.js"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+  />
+  <img 
+      alt="Vite" 
+      title="Vite"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+  />
+  <img 
+      alt="Material UI" 
+      title="Material UI"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" 
+  />
+</p>
+
+<p>
+  <img 
+      alt="Kotlin" 
+      title="Kotlin"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+  />
+  <img 
+      alt="Android" 
+      title="Android"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+  />
+  <img 
+      alt="Jetpack Compose" 
+      title="Jetpack Compose"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" 
+  />
+  <img 
+      alt="Java" 
+      title="Java"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  <img 
+      alt="Spring Boot" 
+      title="Spring Boot"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+  />
+  <img 
+      alt="Node.js" 
+      title="Node.js"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
+      alt="MySQL" 
+      title="MySQL"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  />
+  <img 
+      alt="Jest" 
+      title="Jest"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+  />
+  <img 
+      alt="JUnit" 
+      title="JUnit"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
+  />
+  <img 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+</p><br/> 
 
 ---
 
